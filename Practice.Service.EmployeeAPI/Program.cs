@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using Practice.Service.EmployeeAPI;
 using Practice.Service.EmployeeAPI.Data;
 using Practice.Service.EmployeeAPI.Model.Dto;
-using System;
 
 
 var builder = WebApplication.CreateBuilder(args);
